@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "黙れ",
+  "base_artist": "Takayan",
+  "createdAt": "2026-03-19T19:23:02.439846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黙れ",
+      "artist": "たかやん / Takayan",
+      "has_synced": true,
+      "path": "select/01_黙れ_たかやん___Takayan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黙れ - Shut up",
+      "artist": "Takayan",
+      "has_synced": true,
+      "path": "select/02_黙れ_-_Shut_up_Takayan.lrc"
+    }
+  ]
+}
